@@ -2,7 +2,7 @@
 
 I'm a High-Performance Computing Engineer, which means that I maintain some of the world's most capable computers for use by scientists and engineers of all sorts. 
 
-I've worked with projects ranging from COVID-19 studies, to global climate simulation, to teams looking into the origins of the universe, and others that are planning to land on Mars.
+I've supported projects ranging from COVID-19 studies, to global climate simulation, to teams looking into the origins of the universe, and others that are planning to land on Mars.
 
 - 👨‍💻 &nbsp; I’m working on the [Rescale Platform](https://www.rescale.com/) with the goal of [making HPC accessible and easy to use](https://about.rescale.com/rs/285-WFD-495/images/Rescale_Platform_Data_Sheet.pdf).
 - 🌱 &nbsp; I’m learning [Jsonnet](https://jsonnet.org/) and spend a lot of time thinking about software portability.
