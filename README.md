@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jack
+### Hi there 👋 &nbsp;I'm Jack
 
 I'm a High-Performance Computing Engineer, which means that I maintain some of the world's most capable computers for use by scientists and engineers of all sorts. 
 
